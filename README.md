@@ -35,7 +35,9 @@ Planning:
 - ZFS driver for Cinder
 - Multipath device support
 - Snapshots and migrations
+- Writing tests
 - Port other services like Trove, Heat
+- Submitting a proposal to OpenStack Project to become an upstream project
 - Another cool stuff like baremetal provisioning
 
 # References
