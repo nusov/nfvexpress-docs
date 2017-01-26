@@ -39,7 +39,7 @@ Planning:
 - Writing tests
 - Port other services like Trove, Heat
 - Submitting a proposal to OpenStack Project to become an upstream project
-- Another cool stuff like baremetal provisioning
+- Add support for bhyve hypervisor
 
 # References
 Before I run NFV Express I was actively searching for any information about OpenStack and FreeBSD in the internet. Here is a list of resources I found which insipired me to start the project.
