@@ -22,10 +22,11 @@ In progress:
 - Installation scripts for single-node OpenStack deployment
 - Binary packages with default options from FreeBSD ports tree to speed up the installation of OpenStack (building from sources takes up four hours)
 - Stabilizing core services
-- Fixing serial console
-- FreeBSD 11 cloud images to use on FreeBSD (Xen and QEMU flavors)
+- --Fixing serial console--
+- --FreeBSD 11 cloud images to use on FreeBSD (Xen and QEMU flavors)--
 - Preparing for OpenStack Ocata
 - Make a FreeBSD ports tree consistent (match maximum versions for oslo for each release)
+- ...
 
 ## Q2-Q3 2017
 Planning:
