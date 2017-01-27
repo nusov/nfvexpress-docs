@@ -26,6 +26,7 @@ In progress:
 - FreeBSD 11 cloud images to use on FreeBSD (Xen and QEMU flavors)--
 - Preparing for OpenStack Ocata
 - Make a FreeBSD ports tree consistent (match maximum versions for oslo for each release)
+- Security groups
 - ...
 
 ## Q2-Q3 2017
