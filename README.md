@@ -29,7 +29,6 @@ In Progress:
 - Preparing for OpenStack Ocata
 - Make a FreeBSD ports tree consistent
 - Security groups
-- ...
 
 ## Q2-Q3 2017
 Planning:
