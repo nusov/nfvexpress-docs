@@ -17,27 +17,27 @@ Done:
 - submitted all ports to the FreeBSD ports tree
 
 ## Q1 2017 (ongoing)
-In progress:
+Done:
 - Documentation for OpenStack on FreeBSD
 - Installation scripts for single-node OpenStack deployment
 - Binary packages with default options from FreeBSD ports tree to speed up the installation of OpenStack (building from sources takes up four hours)
-- Stabilizing core services
 - Fixing serial console
-- FreeBSD 11 cloud images to use on FreeBSD (Xen and QEMU flavors)--
+- FreeBSD 11 cloud images to use on FreeBSD (Xen and QEMU flavors)
+
+In Progress:
+- Stabilizing core services
 - Preparing for OpenStack Ocata
-- Make a FreeBSD ports tree consistent (match maximum versions for oslo for each release)
+- Make a FreeBSD ports tree consistent
 - Security groups
 - ...
 
 ## Q2-Q3 2017
 Planning:
 - Migrate to Ocata
-- Firewall for Nova hypervisor
 - Port of Neutron service with support of FIBs and security groups via PF (rewrite linuxbridge driver)
 - ZFS driver for Cinder
 - Multipath device support
 - Snapshots and migrations
-- Writing tests
 - Port other services like Trove, Heat
 - Submitting a proposal to OpenStack Project to become an upstream project
 - Add support for bhyve hypervisor
