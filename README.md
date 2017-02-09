@@ -3,7 +3,7 @@ NFV Express is an open-source R&D project dedicated to build a scalable cloud co
 
 # R&D iterations
 Each R&D iteration lasts for three months.
-Currenly after ending the first phase it's possible to start exploring OpenStack on FreeBSD, perform basic tasks like managing users in keystone, upload images to glance, spin-up virtual machines and connect to them via SSH or VNC in the Dashboard from your browser.
+Currenly after ending the first iteration it became possible to start exploring OpenStack on FreeBSD, perform basic tasks like managing users in keystone, upload images to glance, spin-up virtual machines and connect to them via SSH or VNC in the Dashboard from your browser.
 
 
 ## Q4 2016
