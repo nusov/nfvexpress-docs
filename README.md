@@ -40,6 +40,9 @@ Planning:
 - Submitting a proposal to OpenStack Project to become an upstream project
 - Add support for bhyve hypervisor
 
+## Q4 2017
+
+
 # References
 Before I run NFV Express I was actively searching for any information about OpenStack and FreeBSD in the internet. Here is a list of resources I found which insipired me to start the project.
 
