@@ -31,15 +31,18 @@ In Progress:
 
 ## Backlog
 - Migrate to Ocata
-- Port of Neutron service with support of FIBs and security groups via PF (rewrite linuxbridge driver)
-- ZFS driver for Cinder
-- Multipath device support
-- Snapshots and migrations
-- Port other services like Trove, Heat
-- Submitting a proposal to OpenStack Project to become an upstream project
+- Backport nova-network to Ocata
+- ZFS support for block storage
+- iSCSI drivers with multipath support
+- Live migrations and quick snapshots
+- Neutron service, support for rich network topologies
+- VLANs and QoS
+- Security groups
+- Performance monitoring using Ceilometer
+- Port Database as a Service (Trove)
+- Port Elastic Map Reduce (Sahara)
+- Port OpenStack Orchestration (Heat)
 - Add support for bhyve hypervisor
-
-
 
 # References
 Before I run NFV Express I was actively searching for any information about OpenStack and FreeBSD in the internet. Here is a list of resources I found which insipired me to start the project.
