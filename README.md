@@ -29,8 +29,7 @@ In Progress:
 - Make a FreeBSD ports tree consistent
 - Security groups
 
-## Q2-Q3 2017
-Planning:
+## Backlog
 - Migrate to Ocata
 - Port of Neutron service with support of FIBs and security groups via PF (rewrite linuxbridge driver)
 - ZFS driver for Cinder
@@ -40,7 +39,6 @@ Planning:
 - Submitting a proposal to OpenStack Project to become an upstream project
 - Add support for bhyve hypervisor
 
-## Q4 2017
 
 
 # References
