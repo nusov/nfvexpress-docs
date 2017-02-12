@@ -41,6 +41,7 @@ In Progress:
 ## Backlog
 - Migrate to Ocata
 - Backport nova-network to Ocata
+- Rootwrap support
 - ZFS support for block storage
 - iSCSI drivers with multipath support
 - Live migrations and quick snapshots
