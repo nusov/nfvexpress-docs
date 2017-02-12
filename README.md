@@ -8,12 +8,17 @@ Currenly after ending the first iteration it became possible to start exploring 
 
 ## Q4 2016
 Done:
-- ported python-openstackclient, keystone, glance
-- ported nova with initial support of Xen and QEMU hypervisors
-- ported cinder with initial support for NFS volumes
-- ported nova-network
-- ported horizon (OpenStack Dashboard)
-- submitted all ports to the FreeBSD ports tree
+- Ported python-openstackclient, keystone, glance
+- Ported Keystone (authentication and authorization service for OpenStack services)
+- Ported Glance (stores and retrieves virtual machine disk images)
+- Ported Nova (manages the lifecycle of compute instances in an OpenStack environment)
+- Ported Horizon (web-based dashboard and portal for OpenStack)
+- Ported Cinder (persistent block storage to running instances)
+- Platform-specific fixes to use Xen Dom0 as hypervisor for Nova
+- Networking driver for FreeBSD (nova-network's freebsd_net)
+- Floating IP support for Nova using PF
+- Initial NFS support for Cinder
+- Submitted all ports to the FreeBSD ports tree
 
 ## Q1 2017 (ongoing)
 Done:
