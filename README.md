@@ -44,7 +44,7 @@ In Progress:
 - Neutron service, support for rich network topologies
 - VLANs and QoS
 - Security groups
-- Performance monitoring using Ceilometer
+- Performance monitoring and telemetry (Ceilometer)
 - Port Database as a Service (Trove)
 - Port Elastic Map Reduce (Sahara)
 - Port OpenStack Orchestration (Heat)
