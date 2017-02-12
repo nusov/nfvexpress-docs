@@ -45,8 +45,10 @@ In Progress:
 - iSCSI drivers with multipath support
 - Live migrations and quick snapshots
 - Neutron service, support for rich network topologies
+- Support for overlapping IPs (multiple private networks with the same CIDR)
 - VLANs and QoS
 - IPv6 support
+- ARP anti-spoofing
 - Devstack and code coverage
 - Performance monitoring and telemetry (Ceilometer)
 - Port Database as a Service (Trove)
