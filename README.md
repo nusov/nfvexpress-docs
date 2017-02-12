@@ -15,7 +15,7 @@ Done:
 - Ported Horizon (web-based dashboard and portal for OpenStack)
 - Ported Cinder (persistent block storage to running instances)
 - Platform-specific fixes to use Xen Dom0 as hypervisor for Nova
-- Networking driver for FreeBSD (nova-network's freebsd_net)
+- Network driver for Nova and FreeBSD 11
 - Floating IP support for Nova using PF
 - Initial NFS support for Cinder
 - Submitted all ports to the FreeBSD ports tree
