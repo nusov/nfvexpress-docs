@@ -46,7 +46,7 @@ In Progress:
 - Live migrations and quick snapshots
 - Neutron service, support for rich network topologies
 - VLANs and QoS
-- Security groups
+- IPv6 support
 - Performance monitoring and telemetry (Ceilometer)
 - Port Database as a Service (Trove)
 - Port Elastic Map Reduce (Sahara)
