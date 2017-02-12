@@ -33,6 +33,7 @@ In Progress:
 - Preparing for OpenStack Ocata
 - Make a FreeBSD ports tree consistent
 - Security groups
+- Scripts to deploy multi-node OpenStack
 
 ## Backlog
 - Migrate to Ocata
