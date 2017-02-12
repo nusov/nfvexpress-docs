@@ -25,8 +25,9 @@ Done:
 - Documentation for OpenStack on FreeBSD
 - Installation scripts for single-node OpenStack deployment
 - Binary packages with default options from FreeBSD ports tree to speed up the installation of OpenStack (building from sources takes up four hours)
-- Fixing serial console
+- Fixed serial console (to get instance log in nova and horizon)
 - FreeBSD 11 cloud images to use on FreeBSD (Xen and QEMU flavors)
+- Tested compatibility with Linux (CentOS 7 and Ubuntu 14.04 LTS)
 
 In Progress:
 - Stabilizing core services
@@ -34,6 +35,8 @@ In Progress:
 - Make a FreeBSD ports tree consistent
 - Security groups
 - Scripts to deploy multi-node OpenStack
+- Build services (up to date FreeBSD cloud images with latest updates)
+- Support for Windows Server 2012R2 (selective disk backend)
 
 ## Backlog
 - Migrate to Ocata
