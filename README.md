@@ -8,7 +8,7 @@ Currenly after ending the first iteration it became possible to start exploring 
 
 ## Q4 2016
 Done:
-- Ported python-openstackclient, keystone, glance
+- Ported client libraries and clients for OpenStack services (python-openstackclient)
 - Ported Keystone (authentication and authorization service for OpenStack services)
 - Ported Glance (stores and retrieves virtual machine disk images)
 - Ported Nova (manages the lifecycle of compute instances in an OpenStack environment)
