@@ -40,6 +40,7 @@ In Progress:
 
 ## Backlog
 - Migrate to Ocata
+- Support for ISO
 - Backport nova-network to Ocata
 - Rootwrap support
 - ZFS support for block storage
