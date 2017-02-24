@@ -38,15 +38,18 @@ In Progress:
 - Build services (up to date FreeBSD cloud images with latest updates)
 - Support for Windows Server 2012R2 (selective disk backend)
 
-## Backlog
+## Q2 2017
 - Migrate to Ocata
+- Neutron service, support for rich network topologies
+
+## Backlog
+
 - Support for ISO
 - Backport nova-network to Ocata
 - Rootwrap support
 - ZFS support for block storage
 - iSCSI drivers with multipath support
 - Live migrations and quick snapshots
-- Neutron service, support for rich network topologies
 - Support for overlapping IPs (multiple private networks with the same CIDR)
 - VLANs and QoS
 - IPv6 support
