@@ -33,7 +33,6 @@ In Progress:
 - Stabilizing core services
 - Preparing for OpenStack Ocata
 - Make a FreeBSD ports tree consistent
-- Security groups
 - Scripts to deploy multi-node OpenStack
 - Build services (up to date FreeBSD cloud images with latest updates)
 - Support for Windows Server 2012R2 (selective disk backend)
@@ -60,6 +59,10 @@ In Progress:
 - Port Elastic Map Reduce (Sahara)
 - Port OpenStack Orchestration (Heat)
 - Add support for bhyve hypervisor
+
+## Out of scope
+- QEMU
+- Security groups for nova (Newton) (nova-network is deprecated and cells v1 are not encouraged for new deployments)
 
 # References
 Before I run NFV Express I was actively searching for any information about OpenStack and FreeBSD in the internet. Here is a list of resources I found which insipired me to start the project.
