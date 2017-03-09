@@ -1,5 +1,5 @@
 # NFV Express
-NFV Express is an open-source R&D project dedicated to build a scalable cloud computing platform based on OpenStack for FreeBSD Operating System started in October, 2016.
+NFV Express is an open-source R&D project dedicated to build a scalable cloud computing platform based on OpenStack for \*BSD pperating systems started in October, 2016.
 
 # R&D iterations
 Each R&D iteration lasts for three months.
