@@ -58,6 +58,8 @@ In Progress:
 - Port Database as a Service (Trove)
 - Port Elastic Map Reduce (Sahara)
 - Port OpenStack Orchestration (Heat)
+- Extend support to NetBSD
+- Extend support to OpenBSD
 - Add support for bhyve hypervisor
 
 ## Out of scope
